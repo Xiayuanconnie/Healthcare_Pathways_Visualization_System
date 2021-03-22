@@ -1,0 +1,533 @@
+[
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 59,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 411,
+            "max_target": false
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 377,
+            "max_target": false
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 929,
+            "max_target": true,
+            "select": true,
+            "cost": 4
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 633,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 527,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 607,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 264,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 175,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 635,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 438,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 540,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 1164,
+            "max_target": true,
+            "select": true,
+            "cost": 3
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 459,
+            "max_target": false
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 479,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 149,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 351,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 72,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 534,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 618,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 108,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 364,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 301,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 1171,
+            "max_target": true,
+            "select": true,
+            "cost": 4
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 487,
+            "max_target": false
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 285,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 452,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 331,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 408,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 79,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 534,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 221,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 270,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 139,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 79,
+            "max_target": false
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 412,
+            "max_target": false
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 597,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 595,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 261,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 1069,
+            "max_target": true,
+            "select": true,
+            "cost": 4
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 253,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 495,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 317,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 606,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 357,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 324,
+            "max_target": false
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 485,
+            "max_target": false
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 121,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 1060,
+            "max_target": true,
+            "select": true,
+            "cost": 3
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 255,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 450,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 481,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 376,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 159,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 372,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 508,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 487,
+            "max_target": false
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 884,
+            "max_target": true,
+            "select": true,
+            "cost": 4
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 571,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 425,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 521,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 410,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 64,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 200,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 301,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 519,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 59,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 56,
+            "max_target": false
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 1064,
+            "max_target": true,
+            "select": true,
+            "cost": 3
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 607,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 518,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 397,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 106,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 366,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 184,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 611,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 647,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 1185,
+            "max_target": true,
+            "select": true,
+            "cost": 3
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 200,
+            "max_target": false
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 515,
+            "max_target": false
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 393,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 85,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 637,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 437,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 577,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 486,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 452,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 176,
+            "max_target": false
+        }
+    ],
+    [
+        {
+            "path_name": "Admitted",
+            "path_cost": 618,
+            "max_target": false
+        },
+        {
+            "path_name": "Call Closed",
+            "path_cost": 150,
+            "max_target": false
+        },
+        {
+            "path_name": "Discharged",
+            "path_cost": 602,
+            "max_target": false
+        },
+        {
+            "path_name": "Emergency dentist",
+            "path_cost": 63,
+            "max_target": false
+        },
+        {
+            "path_name": "Minor injuries unit",
+            "path_cost": 148,
+            "max_target": false
+        },
+        {
+            "path_name": "Not picked up in an ambulance",
+            "path_cost": 371,
+            "max_target": false
+        },
+        {
+            "path_name": "Out-of-hours",
+            "path_cost": 1088,
+            "max_target": true,
+            "select": true,
+            "cost": 4
+        },
+        {
+            "path_name": "Out-patient clinic",
+            "path_cost": 195,
+            "max_target": false
+        },
+        {
+            "path_name": "Seen by A&E doctor",
+            "path_cost": 268,
+            "max_target": false
+        },
+        {
+            "path_name": "Spoke to a primary care service",
+            "path_cost": 194,
+            "max_target": false
+        },
+        {
+            "path_name": "Walk-in centre",
+            "path_cost": 518,
+            "max_target": false
+        }
+    ]
+]
